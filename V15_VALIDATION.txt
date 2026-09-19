@@ -1,0 +1,7 @@
+PASS: backend compilation
+PASS: executive brief service
+PASS: ROI guardrail template
+PASS: manager dashboard panel
+PASS: no invented savings figures
+PASS: model router preserved
+PASS: provider architecture preserved

@@ -1,0 +1,8 @@
+PASS: backend compilation
+PASS: provider selection
+PASS: auth/session
+PASS: HTTP health
+PASS: HTTP /ask
+PASS: authenticated memory listing
+PASS: clean server shutdown
+PASS: no AppDeploy/Floot runtime dependency

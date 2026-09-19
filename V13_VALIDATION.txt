@@ -1,0 +1,7 @@
+PASS: backend compilation
+PASS: planner-to-provider pipeline
+PASS: multi-turn context retention
+PASS: mock provider end-to-end
+PASS: research path preserved
+PASS: no API key embedded
+PASS: no AppDeploy/Floot dependency

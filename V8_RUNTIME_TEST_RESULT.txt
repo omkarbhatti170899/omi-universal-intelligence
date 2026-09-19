@@ -1,0 +1,6 @@
+PASS removed import-time run_server call(s): []
+PASS compile: 12 backend modules
+PASS server imports without starting the HTTP server
+PASS explicit __main__ launcher retained
+PASS frontend Ask Omi contract retained
+PASS Omi remains independent of AppDeploy/Floot

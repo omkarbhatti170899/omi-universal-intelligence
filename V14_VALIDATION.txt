@@ -1,0 +1,7 @@
+PASS: backend compilation
+PASS: Luna routine route
+PASS: Terra deep route
+PASS: Astra expert route
+PASS: automatic high-complexity escalation
+PASS: configurable model IDs
+PASS: no secrets embedded

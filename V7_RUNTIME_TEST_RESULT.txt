@@ -1,0 +1,4 @@
+PASS compile: 12 backend modules
+PASS lazy launcher contract
+PASS side-effect-free runtime helper
+FAIL import-time launch: ['server.py:192']

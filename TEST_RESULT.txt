@@ -1,0 +1,12 @@
+PASS compile: providers.py
+PASS compile: limits.py
+PASS compile: health.py
+PASS compile: audit.py
+PASS compile: agent.py
+PASS compile: security.py
+PASS compile: planner.py
+PASS compile: research.py
+PASS compile: config.py
+PASS compile: orchestrator.py
+PASS compile: server.py
+Agent execution smoke test: PASS

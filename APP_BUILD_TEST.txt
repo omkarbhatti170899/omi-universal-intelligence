@@ -1,0 +1,2 @@
+PASS compile server.py
+PASS standalone server entrypoint

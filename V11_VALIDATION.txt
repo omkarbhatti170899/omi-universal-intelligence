@@ -1,0 +1,8 @@
+PASS: backend compilation
+PASS: product packaging
+PASS: environment template
+PASS: secret-safe gitignore
+PASS: installable PWA shell
+PASS: service-worker fallback
+PASS: readiness endpoint
+PASS: independent runtime (no Floot/AppDeploy dependency)

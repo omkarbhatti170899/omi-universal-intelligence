@@ -1,0 +1,8 @@
+PASS: self-host preflight
+PASS: required backend modules present
+PASS: Python compilation
+PASS: Dockerfile present
+PASS: docker-compose manifest present
+PASS: environment template present
+PASS: no provider secret embedded
+Docker runtime check: Docker CLI not installed; manifest validation only.
